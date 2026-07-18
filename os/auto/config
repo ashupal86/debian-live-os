@@ -1,0 +1,10 @@
+#!/bin/sh
+set -e
+
+lb config noauto \
+    --distribution bookworm \
+    --debian-installer none \
+    --archive-areas "main contrib non-free non-free-firmware" \
+    --binary-images iso-hybrid \
+    --debootstrap-options "--variant=minbase" \
+    --apt apt
