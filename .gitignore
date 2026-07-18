@@ -1,0 +1,11 @@
+binary/
+binary*
+cache/
+cache*
+chroot/
+chroot*
+config/
+config*
+*.iso
+local/*
+local*
