@@ -9,3 +9,4 @@ config*
 *.iso
 local/*
 local*
+.build
