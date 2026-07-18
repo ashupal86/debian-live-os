@@ -364,6 +364,10 @@ sudo lb build
 
 ---
 
+# Contribute to this repo
+if you found any bug and its solution do raise an issue with details adn how to fix it will help to maintain this repo.
+Thank you for being here.
+
 # References
 
 * Debian Live Build Documentation: https://live-team.pages.debian.net/live-manual/
